@@ -42,8 +42,7 @@ I'm a **Robotics Engineering graduate student** at the **University of Maryland,
 ## 📫 Connect with Me!
 [![Email](https://img.shields.io/badge/Email-kjdeepak@umd.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjdeepak@umd.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JonathanDeepakKannan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-deepak-kannan-4aa168292/)
-[![GitHub](https://img.shields.io/badge/GitHub-kjdeepak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kjdeepak) _(if this is your username)_
-
+[![GitHub](https://img.shields.io/badge/GitHub-jonathandeepak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathandeepak)
 ---
 
 🌟 _Feel free to check out my repositories, contribute, or reach out to collaborate!_
