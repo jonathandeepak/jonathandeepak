@@ -1,4 +1,4 @@
-# Hi there, I'm Jonathan Deepak Kannan! 👋
+# Hi there, I'm Jonathan! 👋
 
 ## 🚀 About Me
 I'm a **Robotics Engineering graduate student** at the **University of Maryland, College Park**, with a background in **mechanical engineering, computer vision, and machine learning**. Passionate about **robotics, automation, and AI**, I work with **ROS2, Python, C++, and OpenCV** to develop innovative solutions.
