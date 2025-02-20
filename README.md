@@ -22,7 +22,7 @@ I'm a **Robotics Engineering graduate student** at the **University of Maryland,
 
 ### 🤖 **Robot Arm Kinematics & Simulation**
 - Developed a **6DOF LWA4P Schunk Robot Arm** simulation using **Python's sympy library** for kinematic modeling.
-- Designed **CAD models** and implemented open-loop control in **Gazebo, Rviz, and Isaac Sim**.
+- Designed **CAD models** and implemented open-loop control in **Gazebo, Rviz**.
 
 ### 🚗 **TurtleBot Perception & Navigation**
 - Built a **computer vision-based perception system** for **horizon line detection and stop sign recognition**.
